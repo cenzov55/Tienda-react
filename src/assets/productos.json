@@ -1,0 +1,65 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Zapatilla Urbana Clásica",
+      "descripcion": "Un diseño atemporal para el día a día, comodidad y estilo en cada paso.",
+      "precio": 49990,
+      "avatar": "/img_zapatillas/urbana_clasica.webp",
+      "categoria": "Urbano",
+      "stock": 25,
+      "detalles": "Material exterior: Cuero sintético, Suela: Goma"
+    },
+    {
+      "id": 2,
+      "nombre": "Zapatilla Deportiva Runner",
+      "descripcion": "Perfectas para correr, con amortiguación y soporte para un rendimiento óptimo.",
+      "precio": 59990,
+      "avatar": "/img_zapatillas/deportiva_runner.webp",
+      "categoria": "Deportivo",
+      "stock": 18,
+      "detalles": "Material exterior: Malla transpirable, Suela: Espuma EVA"
+    },
+    {
+      "id": 3,
+      "nombre": "Zapatilla de Lona",
+      "descripcion": "Un estilo casual y relajado, ideal para cualquier ocasión.",
+      "precio": 39990,
+      "avatar": "/img_zapatillas/lona_casual.webp",
+      "categoria": "Urbano",
+      "stock": 30,
+      "detalles": "Material exterior: Lona, Suela: Goma vulcanizada"
+    },
+    {
+      "id": 4,
+      "nombre": "Zapatilla de Básquetbol",
+      "descripcion": "Diseñadas para la cancha, con un agarre y estabilidad superiores.",
+      "precio": 79990,
+      "avatar": "/img_zapatillas/basquetbol_pro.webp",
+      "categoria": "Deportivo",
+      "stock": 12,
+      "detalles": "Material exterior: Cuero y sintético, Suela: Goma con diseño de espiga"
+    },
+    {
+      "id": 5,
+      "nombre": "Zapatilla de Skate",
+      "descripcion": "Estilo y durabilidad para la tabla, con una suela plana para un mejor agarre.",
+      "precio": 64990,
+      "avatar": "/img_zapatillas/skate_pro.webp",
+      "categoria": "Urbano",
+      "stock": 20,
+      "detalles": "Material exterior: Gamuza, Suela: Goma de caucho"
+    },
+    {
+      "id": 6,
+      "nombre": "Zapatilla de Trekking",
+      "descripcion": "Robustas y cómodas, ideales para aventuras al aire libre.",
+      "precio": 89990,
+      "avatar": "/img_zapatillas/trekking_explorer.webp",
+      "categoria": "Deportivo",
+      "stock": 15,
+      "detalles": "Material exterior: Malla y sintético, Suela: Goma con tracción mejorada"
+    }
+  ]
+}
+
